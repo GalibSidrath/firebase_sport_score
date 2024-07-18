@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648129846706",
+    "project_id": "sportscore-3c5c2",
+    "storage_bucket": "sportscore-3c5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648129846706:android:b516be65899aab4dcf18ab",
+        "android_client_info": {
+          "package_name": "com.ostad.firebase_1st_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH6KlPEqYYFTO_kIc260-fVZ435qNTdKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
